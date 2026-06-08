@@ -1,7 +1,7 @@
 # 💫 About Me:
 Olá, eu sou Maria Paula!<br><br>🖱Estudante de Ciência da computação<br>💻 Aprendendo Python, HTML, CSS e JavaScript<br>📍 Recife-PE<br>
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mpaulafreire) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mpaulafreiremr@gmail.com) 
 
 # 💻 Tech Stack:
